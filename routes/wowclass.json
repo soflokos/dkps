@@ -1,0 +1,42 @@
+{
+    "hunter":{
+        "icon": "<:hunter:641703322318798898>",
+        "displayName": "Hunters",
+        "players": []
+    },
+    "mage":{
+        "icon": "<:mage:641703322369130496>",
+        "displayName": "Mages",
+        "players": []
+    },
+    "warrior":{
+        "icon": "<:warrior:641703322168066059>",
+        "displayName": "Warriors",
+        "players": []
+    },
+    "priest":{
+        "icon": "<:priest:641703322457210900>",
+        "displayName": "Priests",
+        "players": []
+    },
+    "rogue":{
+        "icon": "<:rogue:641703322088243296>",
+        "displayName": "Rogues",
+        "players": []
+    },
+    "warlock":{
+        "icon": "<:warlock:641703322327449600>",
+        "displayName": "Warlocks",
+        "players": []
+    },
+    "druid":{
+        "icon": "<:druid:641703266089959455>",
+        "displayName": "Druids",
+        "players": []
+    },
+    "shaman":{
+        "icon": "<:shaman:641703322197295115>",
+        "displayName": "Shamans",
+        "players": []
+    }
+}
